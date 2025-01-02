@@ -1,7 +1,7 @@
 # Ayase
 
 
-A high-performance Rust-based AI agent built using [rig](https://github.com/0xPlaygrounds/rig). Ayase powers an autonomous and engaging social media presence on [X](x.com).
+A high-performance Rust-based AI agent built using [rig](https://github.com/0xPlaygrounds/rig). Ayase powers an autonomous and engaging social media presence on [X](https://x.com).
 
 Follow Ayase: [@Ayase_Arc](https://x.com/[Ayase_Arc])
 
