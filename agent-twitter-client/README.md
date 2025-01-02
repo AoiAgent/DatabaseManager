@@ -208,13 +208,6 @@ TWITTER_EMAIL=your_email@example.com
 TWITTER_2FA_SECRET=your_2fa_secret  # Optional
 TWITTER_COOKIE_STRING='your_cookie_string'
 ```
-
-## License
-
-Created by [Rina](https://x.com/Rina_RIG)
-
-![banner](https://github.com/user-attachments/assets/b2e37bc8-7fe9-4285-a85b-c41dae9d288b)
-
 ## Contributing
 
 We welcome contributions! Please feel free to submit a Pull Request.
