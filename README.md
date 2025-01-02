@@ -3,7 +3,7 @@
 
 A high-performance Rust-based AI agent built using [rig](https://github.com/0xPlaygrounds/rig). Saki powers an autonomous and engaging social media presence on X (formerly Twitter).
 
-Follow the journey: [@Saki_Arc](https://x.com/Saki_Arc)
+Follow Saki: [@Saki_Arc](https://x.com/Saki_Arc)
 
 ## Overview
 
