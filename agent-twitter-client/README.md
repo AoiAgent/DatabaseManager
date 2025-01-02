@@ -83,13 +83,13 @@ async fn main() -> Result<()> {
     scraper.set_from_cookie_string(&cookie_string).await?;
 
     // Follow a user
-    scraper.follow_user("Rina_RIG").await?;
+    scraper.follow_user("Yuki_RIG").await?;
     
     // Get user profile
-    let profile = scraper.get_profile("Rina_RIG").await?;
+    let profile = scraper.get_profile("Yuki_RIG").await?;
     
     // Get user's followers
-    let (followers, next_cursor) = scraper.get_followers("Rina_RIG", 20, None).await?;
+    let (followers, next_cursor) = scraper.get_followers("Yuki_RIG", 20, None).await?;
     
     Ok(())
 }
@@ -113,7 +113,7 @@ async fn main() -> Result<()> {
     
     // Search tweets
     let tweets = scraper.search_tweets(
-        "@Rina_RIG",
+        "@Yuki_RIG",
         20,
         SearchMode::Latest,
         None
