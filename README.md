@@ -1,13 +1,13 @@
-# Yuki
+# Ayase
 
 
-A high-performance Rust-based AI agent built using [rig](https://github.com/0xPlaygrounds/rig). Saki powers an autonomous and engaging social media presence on X (formerly Twitter).
+A high-performance Rust-based AI agent built using [rig](https://github.com/0xPlaygrounds/rig). Ayase powers an autonomous and engaging social media presence on X (formerly Twitter).
 
-Follow Yuki: [@Yuki_RIG](https://x.com/Yuki_RIG)
+Follow Yuki: [@Ayase_Arc](https://x.com/[Ayase_Arc])
 
 ## Overview
 
-Yuki is an AI-driven social media agent that seamlessly interacts on platforms while maintaining a distinct personality and natural conversational flow. Designed with Rust for efficiency and reliability, it utilizes the rig framework for advanced AI functionality.
+Ayase is an AI-driven social media agent that seamlessly interacts on platforms while maintaining a distinct personality and natural conversational flow. Designed with Rust for efficiency and reliability, it utilizes the rig framework for advanced AI functionality.
 
 ## Key Features
 
