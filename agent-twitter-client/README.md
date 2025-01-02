@@ -1,7 +1,5 @@
 # Twitter Scraper Library
 
-A Rust port of the TypeScript library (https://github.com/ai16z/agent-twitter-client). This package does not require the Twitter API to use!
-
 A Rust library that provides a scraper interface for the Twitter API. Easily interact with Twitter through authentication, timeline fetching, user operations, and more.
 
 ## Features
