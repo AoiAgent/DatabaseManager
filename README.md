@@ -3,7 +3,7 @@
 
 A high-performance Rust-based AI agent built using [rig](https://github.com/0xPlaygrounds/rig). Ayase powers an autonomous and engaging social media presence on X (formerly Twitter).
 
-Follow Yuki: [@Ayase_Arc](https://x.com/[Ayase_Arc])
+Follow Ayase: [@Ayase_Arc](https://x.com/[Ayase_Arc])
 
 ## Overview
 
