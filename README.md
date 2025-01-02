@@ -1,13 +1,13 @@
-# Saki
+# Yuki
 
 
 A high-performance Rust-based AI agent built using [rig](https://github.com/0xPlaygrounds/rig). Saki powers an autonomous and engaging social media presence on X (formerly Twitter).
 
-Follow Saki: [@Saki_Arc](https://x.com/Saki_Arc)
+Follow Yuki: [@Yuki_RIG](https://x.com/Yuki_RIG)
 
 ## Overview
 
-Saki is an AI-driven social media agent that seamlessly interacts on platforms while maintaining a distinct personality and natural conversational flow. Designed with Rust for efficiency and reliability, it utilizes the rig framework for advanced AI functionality.
+Yuki is an AI-driven social media agent that seamlessly interacts on platforms while maintaining a distinct personality and natural conversational flow. Designed with Rust for efficiency and reliability, it utilizes the rig framework for advanced AI functionality.
 
 ## Key Features
 
