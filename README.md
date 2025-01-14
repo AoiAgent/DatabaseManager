@@ -1,7 +1,5 @@
-# README for FayeAgentCreation Database Backend
-![banner](https://i.postimg.cc/bvTMrkfs1500x500.png) 
-
 # FayeAgentCreation Database Backend
+![banner](https://i.postimg.cc/bvTMrkfs1500x500.png) 
 
 The FayeAgentCreation Database Backend is the core data management system powering the FayeAgentCreation platform. It handles user data, agent configurations, and all backend functionalities to ensure smooth operation and scalability.
 
