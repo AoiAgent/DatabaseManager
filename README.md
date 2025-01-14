@@ -1,6 +1,5 @@
 # README for FayeAgentCreation Database Backend
-
-![banner](https://i.postimg.cc/bvTMrkfs/1500x500.png)
+![banner](https://i.postimg.cc/bvTMrkfs1500x500.png) 
 
 # FayeAgentCreation Database Backend
 
