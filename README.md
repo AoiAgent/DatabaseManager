@@ -1,5 +1,5 @@
 # AoiAgent Database Backend
-![banner](https://i.postimg.cc/432hgb5X/AOI-AGENTS.png)
+![banner](https://i.postimg.cc/JzPH24QF/Untitled-design.png)
 
 The AoiAgent Database Backend is the core data management system powering the Aoi platform. It handles user data, agent configurations, and all backend functionalities to ensure smooth operation and scalability.
 
