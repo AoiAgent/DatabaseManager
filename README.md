@@ -11,7 +11,7 @@ The InovaFrameworksAgent Database Backend is the core data management system pow
 - Secure Storage: Implements best practices for data encryption and access control.
   
 # Technologies Used
-- Database: [Specify database type, e.g., PostgreSQL, MySQL, MongoDB]
-- ORM/Query Builder: [Specify, e.g., Sequelize, Prisma, Mongoose, etc.]
-- Hosting: [Specify hosting provider or setup, e.g., AWS RDS, local deployment]
-- Programming Language: [Specify, e.g., Python, Node.js, etc.]
+- Database: PostgreSQL
+- ORM/Query Builder: Sequelize, Prisma
+- Hosting: AWS
+- Programming Language: Javascipt
