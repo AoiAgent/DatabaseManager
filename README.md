@@ -1,4 +1,4 @@
-# InovaFrameworksAgent Database Backend
+# InovaFrameworks Database Backend
 ![banner](https://i.postimg.cc/dtSwrsRG/Untitled-design-1.png)
 
 The InovaFrameworksAgent Database Backend is the core data management system powering the InovaFrameworks platform. It handles user data, agent configurations, and all backend functionalities to ensure smooth operation and scalability.
