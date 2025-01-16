@@ -1,5 +1,5 @@
-# InovaFrameworks Database Backend
-![banner](https://i.postimg.cc/SRtXQnrK/Untitled-design-3.png)
+# SNAI Database Backend
+![banner](https://i.postimg.cc/05KNgD2K/Gfd-YGSoa0-AAb9-Ml.jpg)
 
 The InovaFrameworksAgent Database Backend is the core data management system powering the InovaFrameworks platform. It handles user data, agent configurations, and all backend functionalities to ensure smooth operation and scalability.
 
