@@ -1,5 +1,5 @@
 # Yume Database Backend
-![banner](https://i.postimg.cc/nr5nzFD3/34534545.png)
+![banner](https://i.postimg.cc/y8z3Dx0s/66.png)
 
 The yume Database Backend is the core data management system powering the InovaFrameworks platform. It handles user data, agent configurations, and all backend functionalities to ensure smooth operation and scalability.
 
